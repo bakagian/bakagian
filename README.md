@@ -1,7 +1,3 @@
-
-
-
-
 ### 🚀 Full Stack Developer | React | Node.js | Python | Blockchain Enthusiast  
 
 I’m a passionate full-stack developer with experience building scalable web and mobile applications.  
@@ -40,9 +36,9 @@ I love solving problems using **modern frameworks**, clean architecture, and aut
 
 ### 📈 GitHub Stats  
 
-![bakagian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakagian&show_icons=true&theme=radical)
+![Saleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saleem-shaik-git&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakagian&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saleem-shaik-git&layout=compact&theme=radical)
 
 ---
 
@@ -50,7 +46,8 @@ I love solving problems using **modern frameworks**, clean architecture, and aut
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](#)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-support@fabliztik.com-red)](mailto:#)
+[![Email](https://img.shields.io/badge/Email-support@fabliztik.com-red)](mailto:support@fabliztik.com)
 
 ---
+
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
